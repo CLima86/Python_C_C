@@ -1,0 +1,23 @@
+### PYTHON C.C.###
+# Lists
+users = []
+users.append('luis')
+users.append('ryan')
+users.append('ricardo')
+users.append('jessica')
+users.append('victor')
+users.append('amanda')
+users.append('olivia')
+users.append('samantha')
+users.append('alex')
+users.append('norman')
+users.append('Jake')
+users.append('emily')
+users.append('cynthia')
+users.append('natalia')
+users.append('maribel')
+users.append('camila')
+users.append('kevin')
+users.append('jeanie')
+users.insert(2, 'carlitos')
+print(users)
